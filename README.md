@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+   <div>
+  <img ![github pic fenceAndMistJPEG](https://user-images.githubusercontent.com/78739007/167180839-42ed6c4c-187c-4e02-bf4d-6b9ca272628a.jpg)
+
+      <p class="line-1 anim-typewriter">
+        Hi, I'm Jenny and a Full-Stack Developer
+      </p>
+    </div>
