@@ -16,10 +16,10 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on my Portfolio and finishing up some other projects. I am using plain html and css to create it. My projects will soon me deployed on vercel, but for now they will be links to my github profile.
+- 🔭 I’m currently working on Avvygol, an sports betting app to share with friends. 
 
 
-- 🌱 I’m currently learning Angular and Typescript. 
+- 🌱 I’m currently learning how to become a more productive project manager. 
 
 - 👯 I’m looking to collaborate on any kind of project that will give me more job experience.  
 
@@ -45,11 +45,11 @@
 <a href = 'https://www.github.com/jennyxlombardo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<h2> My Projects  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<!-- <h2> My Projects  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 
 <img align="left" src=""/>
       <img align="center" src=""/>
-      <img align="right" src=""/>
+      <img align="right" src=""/> -->
 
 <br>
 
